@@ -58,7 +58,7 @@ python train_stage2.py \
 
 This project benefits significantly from the open-source implementation of the **CSV 2026: Carotid Plaque Segmentation and Vulnerability Assessment in Ultrasound** and ShanghaiTech University for facilitating the data use agreement for this competition.
 
-- **Challenge**: ISBI Foundation Model Challenge
+- **Challenge**: ISBI CSV 2026: Carotid Plaque Segmentation and Vulnerability Assessment in Ultrasound
 - **Repository**: [github.com/dndins/CSV-2026-Baseline](https://github.com/dndins/CSV-2026-Baseline)
 
 We thank the team for their contribution to the medical imaging community.
